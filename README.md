@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Ainsha Zainal 
 
+📫 How to reach me
+ainshahirazanalabidin@gmail.com
+
 <!--
 **ainshazainal/ainshazainal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
